@@ -1,2 +1,2 @@
 # repoo
-ih
+https://teachablemachine.withgoogle.com/models/ZpXCxFrxL/
