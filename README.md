@@ -7,3 +7,5 @@
 ![image](https://github.com/FJTorrecillas/repoo/assets/146860589/929d7988-f904-4aa2-ba8c-a33e1b612500)
 
 https://teachablemachine.withgoogle.com/models/ZpXCxFrxL/
+
+*Python es un lenvuaje de programación originadao en 1991. Hasta la actualidad deste lenguaje logró un aa gran cantidad popularidad, llegando a ser ampliamente usado y preferido por programadores de todo el mundo gracias a su simpklza y cantidad de posibilidades
