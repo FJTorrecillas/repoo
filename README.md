@@ -8,4 +8,4 @@
 
 https://teachablemachine.withgoogle.com/models/ZpXCxFrxL/
 
-*Python es un lenvuaje de programación originadao en 1991. Hasta la actualidad deste lenguaje logró un aa gran cantidad popularidad, llegando a ser ampliamente usado y preferido por programadores de todo el mundo gracias a su simpklza y cantidad de posibilidades
+*Python es un lenguaje de programación originadao en 1991. Hasta la actualidad, este lenguaje logró una gran popularidad, llegando a ser ampliamente usado y preferido por programadores de todo el mundo, gracias a su simpleza y cantidad de posibilidades*
